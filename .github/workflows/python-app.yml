@@ -30,6 +30,3 @@ jobs:
       - name: Rodando testes
         run: |
           python coverage.py
-      - name: Rodando aplicação
-        run: |
-          python app.py
